@@ -1,0 +1,20 @@
+{
+  "author": "John Chesley <john@chesl.es>",
+  "name": "twilio-sms",
+  "description": "An SMS twilio client",
+  "version": "0.0.1",
+  "homepage": "https://github.com/chesles/twilio-sms",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chesles/twilio-sms.git"
+  },
+  "dependencies": {
+      "request": "*"
+  },
+  "main": "lib/twilio.js",
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
